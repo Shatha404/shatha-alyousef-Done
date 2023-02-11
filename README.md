@@ -1,8 +1,8 @@
 # CS290-w23-HW7-shatha-alyousef-
 
-#my name is shatha-alyousef
+#feature 1
 
-## Getting started
+##“feature 1 with 1 bug
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
